@@ -6,6 +6,10 @@
 
 
 ## installation
+소프트웨어가 공개되어 있는 github링크를 복제하여 사용하시면 됩니다.
+```
+git clone https://github.com/sungho12345/min-edit-distance.git
+```
 
 ## how to use
 사용방법은 다음과 같습니다.
