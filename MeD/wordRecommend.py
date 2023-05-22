@@ -10,7 +10,7 @@
 # 입력된 단어와 리스트의 단어들 사이의 편집거리가 작은 단어 출력
 
 def wordRecommend(user_word):
-    f = open("./englishwords.txt", 'r')
+    f = open("./MeD/Dic/englishwords.txt", 'r')
     line = f.readlines()
     f.close()
 
