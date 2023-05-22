@@ -70,10 +70,3 @@ def wordRecommend(user_word):
           min_word_list.append(key)
     return min_word_list
 
-
-# In[6]:
-
-
-user_word = 'apple'
-wordRecommend(user_word)
-
