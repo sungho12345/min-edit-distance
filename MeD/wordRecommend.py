@@ -64,7 +64,7 @@ def wordRecommend(user_word):
     min_word_list = []
 
     # 최소편집거리가 제일 작은 두개의 인덱스를 이용해 딕셔너리 key값 출력
-    for i in range(0, 1): 
+    for i in range(0, 2): 
       for key,value in dic.items():
         if value == minED_list[i]:
           min_word_list.append(key)
