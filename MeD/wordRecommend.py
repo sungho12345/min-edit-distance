@@ -17,7 +17,7 @@ def wordRecommend(user_word):
     words_list = []
     for each in line:
       words_list.append(each.replace("\n", ''))
-    print(words_list)
+#     print(words_list)
 
     minEditDistance_list = []   # 편집거리 따로 리스트를 만듦
 
