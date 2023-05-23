@@ -13,11 +13,10 @@ git clone https://github.com/sungho12345/min-edit-distance.git
 
 ## How to use
 사용방법은 다음과 같습니다.
-```python
->>> from wordRecommend import wordRecommend
+```
+>>> from MeD.wordRecommend import wordRecommend
 >>> word = 'apple'
 >>> print(wordRecommend(word))
-['ample', 'appale', 'appl', 'Apple', 'appled', 'apples', 'apply', 'capple', 'dapple']
 ```
 
 ## Reference
