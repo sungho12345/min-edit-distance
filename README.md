@@ -15,9 +15,9 @@ git clone https://github.com/sungho12345/min-edit-distance.git
 사용방법은 다음과 같습니다.
 
 ```
->>> from MeD.wordRecommend import wordRecommend
->>> word = "apple"
->>> print(wordRecommend(word))
+from MeD.wordRecommend import wordRecommend
+word = "apple"
+print(wordRecommend(word))
 
 ```
 
