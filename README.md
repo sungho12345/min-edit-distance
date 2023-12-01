@@ -16,9 +16,9 @@ git clone https://github.com/sungho12345/min-edit-distance.git
 
 ```
 >>> from MeD.wordRecommend import wordRecommend
->>> word = "apple"
->>> print(wordRecommend(word))
-['ample', 'appale', 'appl', 'Apple', 'appled', 'apples', 'apply', 'capple', 'dapple']
+>>> user_word = "흡수하ㅂ병"
+>>> print(wordRecommend((user_word, wordlist, sepList)))
+['흡수합병']
 ```
 
 ## Reference
