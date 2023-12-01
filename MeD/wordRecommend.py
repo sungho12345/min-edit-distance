@@ -7,7 +7,6 @@
 
 from jamo import h2j, j2hcj
 import re
-import pickle
 
 
 wordlist = []
