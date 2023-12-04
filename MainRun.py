@@ -3,8 +3,6 @@
 
 # In[ ]:
 
-
-from MED.wordRecommend import wordRecommend
-user_word = 'apple'
-print(wordRecommend(user_word))
-
+from MeD.wordRecommend import wordRecommend
+user_word = "흡수하ㅂ병"
+print(wordRecommend((user_word, wordlist, sepList)))
