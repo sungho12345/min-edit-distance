@@ -26,5 +26,3 @@ git clone https://github.com/sungho12345/min-edit-distance.git
 
 ## Reference
 DOI : <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11859765">10.5392/JKCA.2024.24.07.082</a>
-
-![법률용어_page-0001](https://github.com/user-attachments/assets/d6a811b3-5663-46db-bacb-2a405763f80d)
